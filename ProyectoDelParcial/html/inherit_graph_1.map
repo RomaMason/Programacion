@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_poligono.html" title=" " alt="" coords="5,31,84,57"/>
+<area shape="rect" id="node2" href="$class_rectangulo.html" title="Clase que representa un rectángulo en el plano complejo." alt="" coords="132,5,227,32"/>
+<area shape="rect" id="node4" href="$class_triangulo.html" title="Esta clase representa un triángulo en el plano complejo." alt="" coords="139,56,220,83"/>
+<area shape="rect" id="node3" href="$class_cuadrado.html" title="Clase que representa un cuadrado en el plano complejo. Esta clase hereda de la clase Rectangulo y pro..." alt="" coords="275,5,359,32"/>
+</map>

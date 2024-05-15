@@ -1,0 +1,5 @@
+<map id="Cuadrado" name="Cuadrado">
+<area shape="rect" id="node1" title="Clase que representa un cuadrado en el plano complejo. Esta clase hereda de la clase Rectangulo y pro..." alt="" coords="11,155,95,181"/>
+<area shape="rect" id="node2" href="$class_rectangulo.html" title="Clase que representa un rectángulo en el plano complejo." alt="" coords="5,80,100,107"/>
+<area shape="rect" id="node3" href="$class_poligono.html" title=" " alt="" coords="13,5,92,32"/>
+</map>
